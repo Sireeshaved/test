@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-08-20 14:27:20</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>980dcb5774e64c288d033dbe2b5510c4</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>LegacyApplication</Name>
+    <Description />
+    <StartTime>2021-08-20 14:25:48</StartTime>
+    <Duration>92</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>84c2d7dade1a4a3e9f6fa3897de90f7e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2021-08-20 14:25:48</StartTime>
+    <Duration>92</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>d9aeb8431f984c8496b5a9ae7a9eaab1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>2</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-08-20 14:27:20</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>77fbfc79631241c18a13988be3d61ef9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>MetCash_Flow_Demo</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-08-20 14:25:45</StartTime>
+    <Duration>95</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>d8fc133864384d8cb65cfbbc2129de2a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+10:00:00</Timezone>
+      <Locale>English (Australia)</Locale>
+      <User>METCASH\gmko</User>
+      <CpuInfo>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>metcash.com\IC2-IT-900026</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res44</ResultName>
+    <RunStartTime>2021-08-20 14:25:45</RunStartTime>
+    <Timezone>+10:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

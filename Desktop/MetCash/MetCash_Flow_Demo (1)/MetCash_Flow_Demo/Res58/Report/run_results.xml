@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Invalid procedure call or argument: 'Mid'</Name>
+    <ErrorText>Invalid procedure call or argument: 'Mid'</ErrorText>
+    <Description>&lt;BR/&gt;Line (53): &amp;quot;SalesDetails = Mid(SalesOrd,0,9)&amp;quot;.</Description>
+    <StartTime>2021-08-23 13:06:00</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[D365Application]]></ModuleName>
+          <FileName><![CDATA[D365Application]]></FileName>
+          <Language><![CDATA[D365Application]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[SalesDetails = Mid(SalesOrd,0,9)]]></Scripts>
+          <LineNo><![CDATA[53]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>40e1a36c7695492fb29b0968e8d8a914</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\27d1193c-66f6-4abd-bed5-5d8a9e155e60.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2021-08-23 13:06:06</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>eaaf04c9a6ba4e98a4b9c8d8a3919a08</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>D365Application</Name>
+    <Description />
+    <StartTime>2021-08-23 13:05:52</StartTime>
+    <Duration>14</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>e71f6a7f2a1645f3843f78630974bcbb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>MetCash_Flow_Demo</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-08-23 13:05:49</StartTime>
+    <Duration>17</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>9668338758d04c91bc954c9e08aec6c3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+10:00:00</Timezone>
+      <Locale>English (Australia)</Locale>
+      <User>METCASH\gmko</User>
+      <CpuInfo>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>metcash.com\IC2-IT-900026</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res58</ResultName>
+    <RunStartTime>2021-08-23 13:05:49</RunStartTime>
+    <Timezone>+10:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

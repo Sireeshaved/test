@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "C:\Program Files\TUN\exe\daltest.exe",1</Name>
+    <StartTime>2021-07-15 21:28:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>4db39ec30eda4597a1b25d8314a0b568</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"gmko"</Description>
+    <StartTime>2021-07-15 21:28:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["gmko"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:28:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"abcd1234"</Description>
+    <StartTime>2021-07-15 21:28:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["abcd1234"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:28:55</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:28:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:28:58</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicF3&amp;gt"</Description>
+    <StartTime>2021-07-15 21:28:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicF3&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"ISORA"</Description>
+    <StartTime>2021-07-15 21:29:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["ISORA"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:04</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicRight&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:05</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicRight&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:06</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:08</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicRight&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:09</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicRight&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:10</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"R"</Description>
+    <StartTime>2021-07-15 21:29:11</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["R"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>AfxFrameOrView40.Type</Name>
+    <Description>"&amp;lt__MicReturn&amp;gt"</Description>
+    <StartTime>2021-07-15 21:29:13</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+          <Object>
+            <Type>WinObject</Type>
+            <Name><![CDATA[AfxFrameOrView40]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["&lt__MicReturn&gt"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[window id]]></Name>
+            <Value><![CDATA[59648]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[AfxFrameOrView40]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>fcf06726b74141ebad8f890625d91b86</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>daltest1</Name>
+    <Description>Window</Description>
+    <StartTime>2021-07-15 21:28:53</StartTime>
+    <Duration>20</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest1]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[daltest1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[Afx:]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>9c40cc060f96477e9d313d61ab505a40</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>daltest</Name>
+    <Description>Window</Description>
+    <StartTime>2021-07-15 21:28:53</StartTime>
+    <Duration>20</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[daltest]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[daltest]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[Afx:]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>9c40cc060f96477e9d313d61ab505a40</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action3</Name>
+    <Description />
+    <StartTime>2021-07-15 21:28:45</StartTime>
+    <Duration>28</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c2abdc1e366c431eb3905be1ea126848</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>MetCash_Flow_Demo</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.2</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2021-07-15 21:28:42</StartTime>
+    <Duration>31</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>a5249ae4364e4f06b309629ef8921da2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+10:00:00</Timezone>
+      <Locale>English (Australia)</Locale>
+      <User>METCASH\gmko</User>
+      <CpuInfo>Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>metcash.com\IC2-IT-900026</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res27</ResultName>
+    <RunStartTime>2021-07-15 21:28:42</RunStartTime>
+    <Timezone>+10:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.2</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
